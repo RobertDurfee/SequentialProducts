@@ -19,6 +19,10 @@ Sequence of the first 500 products of two 2-digit numbers output by function 1:
 The 500 pairs of 2-digit numbers input to produce the above products using function 1:
 ![Approximation 1 Input](/ProductInputApproximation1.png)
 
+##### Evaluation
+
+Easy to understand and implement, but the numbers are not even close to being output sequentially.
+
 ### Approximation 2
 
 Sequence of the first 500 products of two 2-digit numbers output by function 2:
@@ -26,9 +30,17 @@ Sequence of the first 500 products of two 2-digit numbers output by function 2:
 The 500 pairs of 2-digit numbers input to produce the above products using function 2:
 ![Approximation 2 Input](/ProductInputApproximation2.png)
 
+##### Evaluation
+
+Difficult to understand and implement, but the numbers are close to being output sequentially up until about 10^k product. Very fast.
+
 ### Approximation 3
 
 Sequence of the first 500 products of two 2-digit numbers output by function 3:
 ![Approximation 3 Output](/ProductOutputApproximation3.png)
 The 500 pairs of 2-digit numbers input to produce the above products using function 3:
 ![Approximation 3 Input](/ProductInputApproximation3.png)
+
+##### Evaluation
+
+Nearly the same results as approximation 2 (curiously), but rather than identifying an arithmetic sequence, calculus differentials were used. Much slower.
