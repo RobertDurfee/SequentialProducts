@@ -44,3 +44,15 @@ The 500 pairs of 2-digit numbers input to produce the above products using funct
 #### Evaluation
 
 Nearly the same results as approximation 2 (curiously), but rather than identifying an arithmetic sequence, calculus differentials were used. Much slower.
+
+### Approximation 4
+
+Sequence of the first 500 products of two 2-digit numbers output by function 4:
+![Approximation 4 Output](/ProductOutputApproximation4.png)
+The 500 pairs of 2-digit numbers input to produce the above products using function 4:
+![Approximation 4 Input](/ProductInputApproximation4.png)
+
+#### Evaluation
+
+Nearly the same results as approximation 2 and 3, but the logic is a little easier to follow than in 2. About as fast as approximation 2. Still flawed.
+
