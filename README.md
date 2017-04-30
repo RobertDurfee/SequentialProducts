@@ -25,3 +25,10 @@ Sequence of the first 500 products of two 2-digit numbers output by function 2:
 ![Approximation 2 Output](/ProductOutputApproximation2.png)
 The 500 pairs of 2-digit numbers input to produce the above products using function 2:
 ![Approximation 2 Input](/ProductInputApproximation2.png)
+
+### Approximation 3
+
+Sequence of the first 500 products of two 2-digit numbers output by function 3:
+![Approximation 3 Output](/ProductOutputApproximation3.png)
+The 500 pairs of 2-digit numbers input to produce the above products using function 3:
+![Approximation 3 Input](/ProductInputApproximation3.png)
