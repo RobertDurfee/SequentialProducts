@@ -19,7 +19,7 @@ Sequence of the first 500 products of two 2-digit numbers output by function 1:
 The 500 pairs of 2-digit numbers input to produce the above products using function 1:
 ![Approximation 1 Input](/ProductInputApproximation1.png)
 
-### AttApproximationempt 2
+### Approximation 2
 
 Sequence of the first 500 products of two 2-digit numbers output by function 2:
 ![Approximation 2 Output](/ProductOutputApproximation2.png)
