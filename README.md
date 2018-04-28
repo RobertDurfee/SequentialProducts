@@ -8,9 +8,9 @@ Output a smooth, concave-up or continuously-decreasing sequence of products of t
 ### Real
 
 Sequence of the first 500 products of two 2-digit numbers:
-![Real Output](/ProductOutputReal.png)
+![Real Output](/Plots/ProductOutputReal.png)
 The 500 pairs of 2-digit numbers input to produce the above products:
-![Real Input](/ProductInputReal.png)
+![Real Input](/Plots/ProductInputReal.png)
 
 ### Approximation 1
 ```Java
@@ -39,9 +39,9 @@ public static void Function1() {
 ```
 #### Evaluation
 Sequence of the first 500 products of two 2-digit numbers output by function 1:
-![Approximation 1 Output](/ProductOutputApproximation1.png)
+![Approximation 1 Output](/Plots/ProductOutputApproximation1.png)
 The 500 pairs of 2-digit numbers input to produce the above products using function 1:
-![Approximation 1 Input](/ProductInputApproximation1.png)
+![Approximation 1 Input](/Plots/ProductInputApproximation1.png)
 
 Easy to understand and implement, but the numbers are not even close to being output sequentially.
 
@@ -76,9 +76,9 @@ public static void Function2() {
 ```
 #### Evaluation
 Sequence of the first 500 products of two 2-digit numbers output by function 2:
-![Approximation 2 Output](/ProductOutputApproximation2.png)
+![Approximation 2 Output](/Plots/ProductOutputApproximation2.png)
 The 500 pairs of 2-digit numbers input to produce the above products using function 2:
-![Approximation 2 Input](/ProductInputApproximation2.png)
+![Approximation 2 Input](/Plots/ProductInputApproximation2.png)
 
 Difficult to understand and implement, but the numbers are close to being output sequentially up until about 10^k product. Very fast.
 
@@ -111,9 +111,9 @@ public static void Function3() {
 
 #### Evaluation
 Sequence of the first 500 products of two 2-digit numbers output by function 3:
-![Approximation 3 Output](/ProductOutputApproximation3.png)
+![Approximation 3 Output](/Plots/ProductOutputApproximation3.png)
 The 500 pairs of 2-digit numbers input to produce the above products using function 3:
-![Approximation 3 Input](/ProductInputApproximation3.png)
+![Approximation 3 Input](/Plots/ProductInputApproximation3.png)
 
 Nearly the same results as approximation 2 (curiously), but rather than identifying an arithmetic sequence, calculus differentials were used. Much slower.
 
@@ -163,9 +163,9 @@ public static void Function4() {
 
 #### Evaluation
 Sequence of the first 500 products of two 2-digit numbers output by function 4:
-![Approximation 4 Output](/ProductOutputApproximation4.png)
+![Approximation 4 Output](/Plots/ProductOutputApproximation4.png)
 The 500 pairs of 2-digit numbers input to produce the above products using function 4:
-![Approximation 4 Input](/ProductInputApproximation4.png)
+![Approximation 4 Input](/Plots/ProductInputApproximation4.png)
 
 Nearly the same results as approximation 2 and 3, but the logic is a little easier to follow than in 2. About as fast as approximation 2. Still flawed.
 
